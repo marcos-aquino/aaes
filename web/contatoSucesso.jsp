@@ -1,7 +1,7 @@
 <%-- 
-    Document   : contatoSucesso.jsp
-    Created on : 15/08/2019, 21:46:05
-    Author     : ice
+    Document   : contatoSucesso
+    Created on : Aug 15, 2019, 9:45:56 PM
+    Author     : pedro
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -9,9 +9,9 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Sucesso</title>
     </head>
     <body>
-        <h1>Contato salvo com sucesso!</h1>
+        <h1>Contato foi gravado com sucesso!</h1>
     </body>
 </html>

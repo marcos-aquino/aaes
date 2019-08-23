@@ -1,6 +1,6 @@
 <%-- 
-    Document   : contatoErro
-    Created on : Aug 15, 2019, 9:47:35 PM
+    Document   : contatoSucesso
+    Created on : Aug 15, 2019, 9:45:56 PM
     Author     : pedro
 --%>
 
@@ -9,9 +9,9 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Erro</title>
+        <title>Sucesso</title>
     </head>
     <body>
-        <h1>Algum erro ocorreu durante a gravação do contato!</h1>
+        <h1>Empresa foi gravada com sucesso!</h1>
     </body>
 </html>

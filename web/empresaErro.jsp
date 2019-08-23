@@ -12,6 +12,6 @@
         <title>Erro</title>
     </head>
     <body>
-        <h1>Algum erro ocorreu durante a gravação do contato!</h1>
+        <h1>Algum erro ocorreu durante a gravação da empresa!</h1>
     </body>
 </html>
