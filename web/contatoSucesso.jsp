@@ -12,6 +12,6 @@
         <title>Sucesso</title>
     </head>
     <body>
-        <h1>Contato foi gravado com sucesso!</h1>
+        <h1>Contato foi alterado com sucesso!</h1>
     </body>
 </html>

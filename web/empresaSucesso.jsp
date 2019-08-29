@@ -12,6 +12,6 @@
         <title>Sucesso</title>
     </head>
     <body>
-        <h1>Empresa foi gravada com sucesso!</h1>
+        <h1>Empresa foi alterada com sucesso!</h1>
     </body>
 </html>

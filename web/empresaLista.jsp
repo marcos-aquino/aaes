@@ -1,6 +1,6 @@
 <%-- 
-    Document   : contatoLista
-    Created on : Aug 20, 2019, 10:35:28 PM
+    Document   : empresaLista
+    Created on : Aug 22, 2019, 10:26:20 PM
     Author     : pedro
 --%>
 
@@ -12,6 +12,6 @@
         <title>Ler empresa</title>
     </head>
     <body>
-        <h1>Nome da empresa: <%= request.getParameter("nome") %> </h1>
+        <h1>Código da empresa: <%= request.getParameter("codigo") %> </h1>
     </body>
 </html>

@@ -19,23 +19,18 @@ on Libraries node in Projects view can be used to add the JSTL 1.1 library.
     </head>
     <body>    
     <h1>Menu</h1>
-    
-    <h2>Contatos:</h2>
     <ul>
-        <li><a href="gravarContato.jsp">Gravar contato</a></li>
+        <li><a href="FrontController?action=PesquisarEmpresa">Gravar contato</a></li>
         <br>
         <li><a href="lerContato.jsp">Ler contato</a></li>
         <br>
         <li><a href="apagarContato.jsp">Apagar contato</a></li>
-    </ul>
-    
-    <h2>Empresas:</h2>
-    <ul>
-        <li><a href="gravarEmpresa.jsp">Gravar Empresa</a></li>
+        <br><br>
+        <li><a href="gravarEmpresa.jsp">Gravar empresa</a></li>
         <br>
-        <li><a href="lerEmpresa.jsp">Ler Empresa</a></li>
+        <li><a href="lerEmpresa.jsp">Ler empresa</a></li>
         <br>
-        <li><a href="apagarEmpresa.jsp">Apagar Empresa</a></li>
+        <li><a href="apagarEmpresa.jsp">Apagar empresa</a></li>
     </ul>
     <%--
     This example uses JSTL, uncomment the taglib directive above.
